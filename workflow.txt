@@ -1,0 +1,9 @@
+First create a repo if working on own project. If working with any organization they will create a main branch.
+
+Clone that file in your local system.
+
+Make changes or work on it.
+
+Add the changes you made .
+
+Commit them if working on own project or raise a pull request
