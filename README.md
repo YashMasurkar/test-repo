@@ -1,7 +1,9 @@
 # test-repo
-This repo is used for getting hands on experience for using git and github.
+#This repo is used for getting hands on experience for using git and github.
 <br>
-README.md file is used for giving long discription about our code.<br>
+#README.md file is used for giving long discription about our code.<br>
+<br>
+# Using git and github<br>
 1)First of all whenever you will get an task we have to clone the main repo in our local system and work on it.<br>
 For cloning use this command " git clone 'some link' ".<br>
 2)Use "ls" command to see files present in repo.<br>
@@ -17,8 +19,8 @@ use command "git push origin main". now refresh github you will see the changes.
 Here we wrote main after origin beacause we want to make changes in main branch,If working on any other branch write its name over there.<br>
 9)Pull command is used to download content from remote repo to local repo to match the content.
 use command "git pull origin main".<br>
-
-#branch concept<br>
+<br>
+# branch concept<br>
 When a no. of developers are working together they can't wait for each other to finish their work so to resolve this each department will create its own branch from main branch and work on it.<br>
 1)To create a new branch we have a command-<br>
 " git checkout -b 'new branch name' " <br>
